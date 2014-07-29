@@ -1,0 +1,18 @@
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\bin\Debug\MODELO.dll
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\bin\Debug\MODELO.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\bin\Debug\MODELO.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\obj\Debug\MODELO.Resources.resources
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\obj\Debug\MODELO.vbproj.GenerateResource.Cache
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\obj\Debug\MODELO.dll
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\obj\Debug\MODELO.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\obj\Debug\MODELO.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\bin\Debug\MODELO.dll.CodeAnalysisLog.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\MODELO\bin\Debug\MODELO.dll.lastcodeanalysissucceeded
+C:\Users\JOS\Desktop\TRADUCTOR\MODELO\bin\Debug\MODELO.dll
+C:\Users\JOS\Desktop\TRADUCTOR\MODELO\bin\Debug\MODELO.pdb
+C:\Users\JOS\Desktop\TRADUCTOR\MODELO\bin\Debug\MODELO.xml
+C:\Users\JOS\Desktop\TRADUCTOR\MODELO\obj\Debug\MODELO.Resources.resources
+C:\Users\JOS\Desktop\TRADUCTOR\MODELO\obj\Debug\MODELO.vbproj.GenerateResource.Cache
+C:\Users\JOS\Desktop\TRADUCTOR\MODELO\obj\Debug\MODELO.dll
+C:\Users\JOS\Desktop\TRADUCTOR\MODELO\obj\Debug\MODELO.xml
+C:\Users\JOS\Desktop\TRADUCTOR\MODELO\obj\Debug\MODELO.pdb

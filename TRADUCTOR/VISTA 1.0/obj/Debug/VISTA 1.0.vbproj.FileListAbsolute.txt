@@ -1,0 +1,39 @@
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\VISTA 1.0.exe
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\VISTA 1.0.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\VISTA 1.0.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\CONTROLADOR.dll
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\MODELO.dll
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\CONTROLADOR.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\CONTROLADOR.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\MODELO.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\MODELO.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.vbprojResolveAssemblyReference.cache
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA_1._0.AGREGAR.resources
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA_1._0.Form1.resources
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA_1._0.Resources.resources
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.vbproj.GenerateResource.Cache
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.exe
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\VISTA 1.0.exe.CodeAnalysisLog.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\VISTA 1.0\bin\Debug\VISTA 1.0.exe.lastcodeanalysissucceeded
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.exe
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.xml
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.pdb
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\VISTA 1.0.exe
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\VISTA 1.0.pdb
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\VISTA 1.0.xml
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\CONTROLADOR.dll
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\MODELO.dll
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\CONTROLADOR.pdb
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\CONTROLADOR.xml
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\MODELO.pdb
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\bin\Debug\MODELO.xml
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.vbprojResolveAssemblyReference.cache
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA_1._0.AGREGAR.resources
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA_1._0.Form1.resources
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA_1._0.Resources.resources
+C:\Users\JOS\Desktop\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.vbproj.GenerateResource.Cache
+E:\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.exe
+E:\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.xml
+E:\TRADUCTOR\VISTA 1.0\obj\Debug\VISTA 1.0.pdb

@@ -1,0 +1,26 @@
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\bin\Debug\CONTROLADOR.dll
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\bin\Debug\CONTROLADOR.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\bin\Debug\MODELO.dll
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\bin\Debug\MODELO.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\bin\Debug\MODELO.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.vbprojResolveAssemblyReference.cache
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.Resources.resources
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.vbproj.GenerateResource.Cache
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.dll
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.pdb
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\bin\Debug\CONTROLADOR.dll.CodeAnalysisLog.xml
+C:\Users\MENDEZ\Documents\Visual Studio 2012\Projects\TRADUCTOR\CONTROLADOR\bin\Debug\CONTROLADOR.dll.lastcodeanalysissucceeded
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\bin\Debug\CONTROLADOR.dll
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\bin\Debug\CONTROLADOR.xml
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\bin\Debug\MODELO.dll
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\bin\Debug\MODELO.pdb
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\bin\Debug\MODELO.xml
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.vbprojResolveAssemblyReference.cache
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.Resources.resources
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.vbproj.GenerateResource.Cache
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.dll
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.xml
+C:\Users\JOS\Desktop\TRADUCTOR\CONTROLADOR\obj\Debug\CONTROLADOR.pdb
